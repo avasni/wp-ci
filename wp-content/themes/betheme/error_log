@@ -1,0 +1,4 @@
+[05-May-2019 10:20:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mfn_opts_get() in /home/allie073/fuelyourlife.com.au/wp-content/themes/betheme/404.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/allie073/fuelyourlife.com.au/wp-content/themes/betheme/404.php on line 10
